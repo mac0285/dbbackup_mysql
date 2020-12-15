@@ -1,0 +1,1 @@
+mysqldump.exe -h127.0.0.1 -uroot -p tpbdb >\\192.168.40.6\onedrivesxsql\TPB\' %m-%d-%Y'tpb_db.sql
